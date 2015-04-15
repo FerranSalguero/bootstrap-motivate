@@ -11,7 +11,7 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "http://ferransalguero.github.io/bootstrap-base/",
   "author": "Twitter, Inc.",
   "scripts": {
     "test": "grunt test"

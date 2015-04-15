@@ -36,3 +36,7 @@ Thumbs.db
 # Folders to ignore
 bower_components
 node_modules
+docs/assets/js/raw-files.min.js
+dist/js/npm.js
+dist/js/npm.js
+docs/_includes/customizer-variables.html

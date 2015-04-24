@@ -1,5 +1,5 @@
 /*!
- * Bootstrap customization from Bootstrap v3.3.4 (http://ferransalguero.github.io/bootstrap-base/)
+ * Bootstrap customization from Bootstrap v3.3.4 (http://ferransalguero.github.io/bootstrap-motivate/)
  * Copyright 2011-2015 Twitter, Inc. extended by Ferran Salguero
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
@@ -1101,12 +1101,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #e33b8c;
+  color: #a1175a;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #b71a66;
+  color: #5e0d34;
   text-decoration: underline;
 }
 a:focus {
@@ -3453,7 +3453,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .btn-link {
   font-weight: normal;
-  color: #e33b8c;
+  color: #a1175a;
   border-radius: 0;
 }
 .btn-link,
@@ -3473,7 +3473,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #b71a66;
+  color: #5e0d34;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4048,7 +4048,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eee;
-  border-color: #e33b8c;
+  border-color: #a1175a;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4768,7 +4768,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 6px 12px;
   margin-left: -1px;
   line-height: 1.42857143;
-  color: #e33b8c;
+  color: #a1175a;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -4788,7 +4788,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #b71a66;
+  color: #5e0d34;
   background-color: #eee;
   border-color: #ddd;
 }
@@ -4984,7 +4984,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #e33b8c;
+  color: #a1175a;
   background-color: #fff;
 }
 .list-group-item > .badge {
@@ -5055,7 +5055,7 @@ a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #e33b8c;
+  border-color: #a1175a;
 }
 .thumbnail .caption {
   padding: 9px;

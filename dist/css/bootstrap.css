@@ -13,6 +13,7 @@ html {
 }
 body {
   margin: 0;
+  font-weight: 300;
 }
 article,
 aside,
@@ -4509,6 +4510,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-nav > li > .dropdown-menu {
   margin-top: 0;
+  background-color: #f8f8f8;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
